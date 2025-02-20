@@ -1,6 +1,6 @@
 # Go-gRPC-Node-example
 
-A simple example of a Go gRPC server and a Node.js gRPC client.
+A simple example of a Go gRPC server and a Node.js gRPC typescript client.
 Will do four types of RPCs:
 - Unary
 - Client streaming
