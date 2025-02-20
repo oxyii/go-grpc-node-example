@@ -33,7 +33,7 @@ Will do four types of RPCs:
 
 This repository contains a precompiled files in the `proto` directory.
 If you want to recompile it, you need to have the `protoc` compiler installed.
-You can delete all files and directories in the `proto` directory except for the `test.proto` file, but it is not necessary.
+You can delete all files and directories in the `proto` directory except for the `test.proto` file.
 Then you can recompile the proto file by running the following command:
    ```bash
    make
